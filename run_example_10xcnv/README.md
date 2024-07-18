@@ -1,0 +1,11 @@
+Run order:
+run_preprocess_cnv_bj_mkn45_1pct.R
+run_mgatk_bj_mkn45_1pct.sh
+run_mtDNA_depth.R
+run_preprocess_signac.R
+run_preprocess_cellsnp-lite.sh
+run_preprocess_mquad_cellsnp-lite.sh
+run_preprocess_mquad.R
+run_preprocess_scMitoMut_bj_mkn45_1pct.R
+run_compare.R
+run_compare_pars.R

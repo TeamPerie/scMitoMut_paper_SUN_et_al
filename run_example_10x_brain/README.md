@@ -1,0 +1,10 @@
+Runing order:
+1. run_mgakt.sh
+2. run_preprocess_cellsnp-lite.sh
+3. run_preprocess_mquad_cellsnp_lite.sh
+4. run_preprocess_mquad.R
+5. run_preprocess_signac.R
+6. run_preprocess_cell_annot.R
+7. run_preprocess_cell_annot_name.R
+8. run_preprocess_scMitoMut.R
+9. run_compare.R

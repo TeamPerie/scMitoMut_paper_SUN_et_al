@@ -1,0 +1,10 @@
+Run order:
+1. run_download.sh
+2. run_preprocess_mgatk_atac.sh
+3. run_preprocess_cell_annot.R
+4. run_mtDNA_depth.R
+5. run_preprocess_cellsnp-lite.sh
+6. run_preprocess_mquad_cellsnp-lite.sh
+7. run_preprocess_signac.R
+8. run_preprocess_scMitoMut.R
+9. run_compare.R
